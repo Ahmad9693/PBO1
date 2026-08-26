@@ -1,0 +1,16 @@
+D:\Ahmadpbo\kalkulator1\kalkulator1\bin\Debug\net10.0-windows\kalkulator1.exe
+D:\Ahmadpbo\kalkulator1\kalkulator1\bin\Debug\net10.0-windows\kalkulator1.deps.json
+D:\Ahmadpbo\kalkulator1\kalkulator1\bin\Debug\net10.0-windows\kalkulator1.runtimeconfig.json
+D:\Ahmadpbo\kalkulator1\kalkulator1\bin\Debug\net10.0-windows\kalkulator1.dll
+D:\Ahmadpbo\kalkulator1\kalkulator1\bin\Debug\net10.0-windows\kalkulator1.pdb
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.Form1.resources
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.csproj.GenerateResource.cache
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.AssemblyInfoInputs.cache
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.AssemblyInfo.cs
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.csproj.CoreCompileInputs.cache
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.dll
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\refint\kalkulator1.dll
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.pdb
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\kalkulator1.genruntimeconfig.cache
+D:\Ahmadpbo\kalkulator1\kalkulator1\obj\Debug\net10.0-windows\ref\kalkulator1.dll

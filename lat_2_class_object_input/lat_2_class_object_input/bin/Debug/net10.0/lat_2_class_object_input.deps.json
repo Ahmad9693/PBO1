@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lat_2_class_object_input/1.0.0": {
+        "runtime": {
+          "lat_2_class_object_input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lat_2_class_object_input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

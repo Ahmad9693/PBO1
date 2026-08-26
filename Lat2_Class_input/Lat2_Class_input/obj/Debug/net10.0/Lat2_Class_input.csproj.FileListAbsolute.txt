@@ -1,0 +1,14 @@
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\bin\Debug\net10.0\Lat2_Class_input.exe
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\bin\Debug\net10.0\Lat2_Class_input.deps.json
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\bin\Debug\net10.0\Lat2_Class_input.runtimeconfig.json
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\bin\Debug\net10.0\Lat2_Class_input.dll
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\bin\Debug\net10.0\Lat2_Class_input.pdb
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.AssemblyInfoInputs.cache
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.AssemblyInfo.cs
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.csproj.CoreCompileInputs.cache
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.dll
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\refint\Lat2_Class_input.dll
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.pdb
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\Lat2_Class_input.genruntimeconfig.cache
+D:\Ahmadpbo\Lat2_Class_input\Lat2_Class_input\obj\Debug\net10.0\ref\Lat2_Class_input.dll
